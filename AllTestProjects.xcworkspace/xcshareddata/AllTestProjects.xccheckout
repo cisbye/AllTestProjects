@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>D589BA34-9439-4432-9933-25B1A7AED5B0</string>
+	<key>IDESourceControlProjectName</key>
+	<string>AllTestProjects</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>14FF7258-5C0C-40EC-905A-04D9450B20B1</key>
+		<string>../DrawRectTest</string>
+		<key>6A576146-2B36-4A63-BE75-C3CF90E65AB1</key>
+		<string>../teset</string>
+	</dict>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>14FF7258-5C0C-40EC-905A-04D9450B20B1</string>
+			<key>IDESourceControlWCCName</key>
+			<string>DrawRectTest</string>
+		</dict>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>6A576146-2B36-4A63-BE75-C3CF90E65AB1</string>
+			<key>IDESourceControlWCCName</key>
+			<string>teset</string>
+		</dict>
+	</array>
+</dict>
+</plist>
